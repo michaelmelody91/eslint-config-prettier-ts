@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-prettier-mm",
+  "name": "eslint-config-prettier-ts",
   "version": "0.0.0",
   "main": "index.js",
   "author": "Michael Melody <michaelmelody91@gmail.com>",
