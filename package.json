@@ -8,7 +8,7 @@
   "files": [
     "index.js",
     ".eslintrc.json",
-    ".prettier.js"
+    ".prettierrc.js"
   ],
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.11.0",
