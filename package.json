@@ -5,7 +5,10 @@
   "author": "Michael Melody <michaelmelody91@gmail.com>",
   "license": "MIT",
   "private": false,
-  "publishConfig": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmelody91/eslint-config-prettier-ts.git"
+  },  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
