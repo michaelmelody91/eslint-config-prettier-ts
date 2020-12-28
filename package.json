@@ -5,6 +5,9 @@
   "author": "Michael Melody <michaelmelody91@gmail.com>",
   "license": "MIT",
   "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "files": [
     "index.js",
     ".eslintrc.json",
