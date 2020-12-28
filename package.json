@@ -5,6 +5,11 @@
   "author": "Michael Melody <michaelmelody91@gmail.com>",
   "license": "MIT",
   "private": false,
+  "files": [
+    "index.js",
+    ".eslintrc.json",
+    ".prettier.js"
+  ],
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.11.0",
     "@typescript-eslint/parser": "^4.11.0",
