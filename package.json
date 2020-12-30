@@ -1,15 +1,16 @@
 {
-  "name": "eslint-config-prettier-ts",
-  "version": "0.0.0",
+  "name": "@michaelmelody91/eslint-config-prettier-ts",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "Michael Melody <michaelmelody91@gmail.com>",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelmelody91/eslint-config-prettier-ts.git"
-  },  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "url": "https://github.com/michaelmelody91/eslint-config-prettier-ts.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "files": [
     "index.js",
